@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lnikolina
-- 👀 I’m interested in coding in c ++ programming language
+- 👀 I’m interested in coding in c ++, python, js, programming language
 - 🌱 I’m currently learning application development and more
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me ... nikolina.lekaj12@gmail.com
